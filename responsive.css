@@ -1,0 +1,377 @@
+@media(max-width:1080px){
+    html{
+        font-size:49.5%;
+    }
+    .featured .featured-slider .box{
+       
+        width:64vw;
+        
+    }
+    .featured .featured-slider .box img{
+        width: 63vw;
+    }
+    .side-div{
+        width: 34.5vw;
+       
+       
+    }
+    .featured .featured-slider .box .image-top{
+        width: 53vw;
+     }
+}
+@media(max-width:896px){
+    .featured .featured-slider .box{
+       
+        width:63.5vw;
+        
+    }
+}
+@media(max-width:850px){
+    html{
+        font-size:40.5%;
+    }
+    .side-bar{
+        width:100%;
+    }
+        
+  
+    .featured{
+        font-size: 3rem;
+        margin-top: 7rem;
+    }
+    .heading span{
+        font-size: 5rem;
+        
+    }
+    .heading-1 span{
+       font-size: 4rem;
+        
+      
+    }
+    .featured .featured-slider .box .content{
+        padding: 0.25rem;
+    }
+    .featured .featured-slider .box .content .copybutton {
+        font-size: 3rem;
+        
+    }
+  
+    .featured .featured-slider .box .para-space{
+        
+        padding-top: 2rem;
+        font-size: 3.5rem;
+    }
+    .featured .featured-slider .box .content a{
+        font-size: 3rem;
+       
+        padding:0.9rem 3rem;
+       
+        margin:0 1rem;
+    }
+    .content-list li a {
+       
+        font-size: 3rem;
+     
+    }
+    .content-list li {
+        
+        
+        margin-top: 2rem;
+        
+      }
+      .search-form .search-box {
+        font-size: 3rem;
+       
+      }
+      .search-form {
+        width: 40rem;
+        height: 7rem;
+       
+      }
+      .search-submit {
+        height: 7rem;
+        width: 7rem;
+        
+      }
+      #search-icon {
+        font-size: 5vw;
+        margin-right: 2vw;
+      }
+      #search-closer {
+        font-size: 5vw;
+        margin-right: 4vw;
+      }
+      .manu-btn {
+        font-size: 5vw;
+      }
+   
+    
+    footer .social-icons li a{
+        font-size: 6rem;
+        
+      
+    }
+    footer .footer-manu li a{
+        font-size: 3rem;
+       
+     
+    }
+    footer p{
+       
+        font-size: 2.3rem;
+    }
+    
+}
+
+@media(max-width:650px){
+    html{
+        font-size:40.5%;
+    }
+    .logo .caption-logo{
+        height: 13vw;
+        width: 35vw;
+        
+     }
+
+    .search-form .search-box {
+        font-size: 4rem;
+       
+      }
+      .search-form {
+        width: 45rem;
+        height: 8rem;
+       
+      }
+      .search-submit {
+        height: 8rem;
+        width: 8rem;
+        
+      }
+      #search-icon {
+        font-size: 8vw;
+        margin-right: 2vw;
+      }
+      #search-closer {
+        font-size: 9vw;
+        margin-right: 6vw;
+      }
+      .manu-btn {
+        font-size: 8vw;
+      }
+   
+    .featured .featured-slider .box{
+       
+        width:98vw;
+        
+    }
+    .featured{
+        font-size: 3rem;
+        margin-top: 7rem;
+    }
+    
+    .heading span{
+        font-size: 7rem;
+        
+    }
+    .heading-1 span{
+       font-size: 6rem;
+        
+      
+    }
+    .head-div{
+        width: 100vw;
+        
+    }
+    .main-head-div{
+        width: 100vw;
+        
+    }
+    
+
+  
+    
+    .featured .featured-slider .box img{
+        width: 97.5vw;
+    }
+    .featured .featured-slider .box .memes-img{
+        width: 70vw; 
+        
+     }
+   
+
+   
+  
+    .featured .featured-slider .box .content .copybutton{
+        font-size: 3.5rem;
+       
+        padding:0.9rem 3rem;
+       
+        margin:0 1rem;
+    }
+    .side-div{
+        width: 100vw;
+        height: auto;
+       float: none;
+       margin-right: 1rem;
+       margin-top: 2rem;
+       
+    }
+    .seemore .seemore-button {
+      
+        font-size: 4rem;
+      
+      }
+      .showall .showall-button {
+      
+        font-size: 4rem;
+      }
+      .angle .angle-button {
+        
+        font-size: 4rem;
+        
+      } 
+
+    .featured .featured-slider .box .image-top{
+        width: 80vw;
+     }
+     
+     .div-hidden{
+         display: none;
+         
+     }
+     .div-hidden.active{
+         display: block;
+         
+     }
+     .div-hidden1{
+        display: none;
+       
+    }
+    .div-hidden1.active{
+        display: block;
+    }
+     .seemore {
+        display: block;
+       
+    }
+    .seemore2{
+        width: 98vw;
+    }
+    .seemore2 .seemore2-button{
+    
+       font-size: 4rem;
+     
+   
+   }
+    
+    .unique{
+        display: none;
+    }
+    .content h1 {
+       
+        font-size: 5rem;
+      }
+    .content-list h1 {
+       
+        font-size: 4.5rem;
+      }
+    .content-list li a{
+       
+        font-size: 3.5rem;
+        
+    }
+   
+    footer .social-icons li a {
+        font-size: 5rem;
+        margin-left: 3.5rem;
+      }
+      footer .footer-manu li a {
+        font-size: 2.5rem;
+      }
+      footer .social-icons, footer .footer-manu {
+        
+        margin-top: 6rem;
+      }
+
+   
+}
+@media(max-width:500px){
+    html{
+        font-size:35.5%;
+    }
+    
+ 
+    
+   
+    .featured{
+        font-size: 3rem;
+    }
+    .heading span{
+        font-size: 5rem;
+        
+    }
+    .heading-1 span{
+        font-size: 5rem;
+       
+    }
+  
+    
+  
+   
+  
+  
+ 
+}
+@media(max-width:400px){
+    html{
+        font-size:33.5%;
+    }
+    
+    
+    .featured{
+        font-size: 3rem;
+    }
+    .heading span{
+        font-size: 7rem;
+        
+    }
+    .heading-1 span{
+       font-size: 5rem;
+         
+    }
+   
+
+    
+}
+@media(max-width:350px){
+    html{
+        font-size:32.5%;
+    }
+    
+
+    
+ 
+   
+    .featured{
+        font-size: 3rem;
+    }
+    .heading span{
+        font-size: 6rem;
+        
+    }
+    .heading-1 span{
+       font-size: 4.5rem;
+        
+      
+    }
+ 
+   
+    
+   
+    footer{
+        min-height:200px;
+    }
+ 
+   
+
+}
